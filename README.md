@@ -14,10 +14,14 @@
 - [x] Dark Mode
 - [x] Swipe to delete downloads.
 
-Install the dependencies
+### Install the dependencies
 
+```
 flutter pub get
+```
 
-Run project
+### Run project
 
+```
 flutter run
+```
